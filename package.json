@@ -54,7 +54,7 @@
     },
     "peerDependencies": {
         "react": "^0.14.7 || ^16.0.0",
-        "typescript": "*"
+        "typescript": "^3.5.3"
     },
     "dependencies": {
         "fuzzy-match-utils": "^1.2.0"
