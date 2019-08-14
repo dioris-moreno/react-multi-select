@@ -53,8 +53,7 @@
         "webpack": "^4.39.2"
     },
     "peerDependencies": {
-        "react": "^0.14.7 || ^16.0.0",
-        "typescript": "^3.5.3"
+        "react": "^0.14.7 || ^16.0.0"
     },
     "dependencies": {
         "fuzzy-match-utils": "^1.2.0"
